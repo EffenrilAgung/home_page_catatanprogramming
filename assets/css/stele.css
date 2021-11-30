@@ -14,7 +14,7 @@
 @media (max-width: 1012px) {
     .container {
         flex-direction: column;
-        height: 1400px;
+        height: 1100px;
     }
     
 }
